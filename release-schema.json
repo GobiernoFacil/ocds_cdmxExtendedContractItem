@@ -1,0 +1,18 @@
+{
+  "definitions" : {
+    "Item" : {
+      "properties" : {
+        "minQuantity" : {
+          "title" : "Minimum Quantity",
+          "description" : "The minimum quantity to buy from the described item",
+          "type" : ["number", "null"]
+        },
+        "maxQuantity" : {
+          "title" : "Maximum Quantity",
+          "description" : "The maximum quantity to buy from the described item",
+          "type" : ["number", "null"]
+        }
+      }
+    }
+  }
+}

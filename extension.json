@@ -1,0 +1,18 @@
+
+{
+  "name": {
+    "en": "CDMX Contract Item"
+  },
+  "description": {
+    "en": "add value information related to the Mexico City Contracting Process (Contracts|Contract|Item)"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "documentationUrl": {
+    "en": "https://github.com/GobiernoFacil/ocds_cdmxExtendedContractItem_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ]
+}
